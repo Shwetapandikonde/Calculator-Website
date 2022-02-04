@@ -79,7 +79,7 @@ input[type="button"]#equal {
 input[type="button"][value="0"] {
   grid-column: span 2;
 }
-@media (max-width: 700px){
+@media (max-width:300px){
   .calculator{
     padding: 20px;
   }
